@@ -1,4 +1,7 @@
 import java.util.*;
+/*
+Я пробовал переписать метод add но мне все равно выдает ошибку когда я пытаюсь его вызвать в main
+ */
 public class Phonebook {
     private static Map<String, String> phonebook;
     Phonebook() {
